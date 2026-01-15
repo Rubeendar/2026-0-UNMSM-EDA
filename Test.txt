@@ -12,6 +12,7 @@ Listado de alumnos del curso de Estructuras de Datos
 10. Sotelo Atuncar, Diego Alejandro
 11. Ventura Enciso, Alan
 12. Villavicencio Paolo 
+13. Condo Tiquillahuanca Jean Phool
 13. Carrasco Farroñan Wilson Oswaldo
 14.
 15.
